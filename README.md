@@ -1,1 +1,3 @@
-# .github
+# Decode Bhutan
+
+Deconstructing Bhutanese Education System
